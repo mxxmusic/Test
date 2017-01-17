@@ -40,4 +40,4 @@ This sample demonstrates the following APIs:
     IsValidLocaleName    
     LocaleNameToLCID
 	
-	branch 1
+	branch 1 too
