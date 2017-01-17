@@ -39,3 +39,5 @@ This sample demonstrates the following APIs:
     GetSystemDefaultLocaleName
     IsValidLocaleName    
     LocaleNameToLCID
+	
+	branch 1
