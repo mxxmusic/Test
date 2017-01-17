@@ -29,6 +29,7 @@ are new to Windows Vista, such as LOCALE_SSCRIPTS.
 We also parse the input locales (if any) to see if they are valid
 by using IsValidLocaleName
 
+
 This sample demonstrates the following APIs:
 
     CompareStringEx
